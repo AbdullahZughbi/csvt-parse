@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.1 - 2025-07-21
+## 1.1.2 - 2025-07-21
 
 ### Fixed
 - Added missing `.d.ts` type definitions for various CSVT types.
