@@ -1,0 +1,1 @@
+{"version":3,"file":"rgba.d.ts","sourceRoot":"","sources":["../../src/types/rgba.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAKxC,qBAAa,aAAc,YAAW,aAAa;IAC/C,QAAQ,CAAC,KAAK,EAAE,MAAM,GAAG,OAAO;IAKhC,KAAK,CAAC,KAAK,EAAE,MAAM,GAAG,MAAM;IAY5B,SAAS,CAAC,KAAK,EAAE,GAAG,GAAG,MAAM;CAMhC"}

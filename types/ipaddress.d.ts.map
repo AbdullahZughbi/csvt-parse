@@ -1,0 +1,1 @@
+{"version":3,"file":"ipaddress.d.ts","sourceRoot":"","sources":["../../src/types/ipaddress.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAMxC,qBAAa,kBAAmB,YAAW,aAAa;IACpD,QAAQ,CAAC,KAAK,EAAE,MAAM,GAAG,OAAO;IAMhC,KAAK,CAAC,KAAK,EAAE,MAAM,GAAG,MAAM;IAO5B,SAAS,CAAC,KAAK,EAAE,GAAG,GAAG,MAAM;CAMhC"}

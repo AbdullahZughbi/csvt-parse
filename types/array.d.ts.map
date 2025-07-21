@@ -1,0 +1,1 @@
+{"version":3,"file":"array.d.ts","sourceRoot":"","sources":["../../src/types/array.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAGxC,qBAAa,cAAe,YAAW,aAAa;IAChD,QAAQ,CAAC,KAAK,EAAE,MAAM,GAAG,OAAO;IAoBhC,KAAK,CAAC,KAAK,EAAE,MAAM,GAAG,GAAG,EAAE;IAoC3B,SAAS,CAAC,KAAK,EAAE,GAAG,GAAG,MAAM;CAYhC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"hexcolor.d.ts","sourceRoot":"","sources":["../../src/types/hexcolor.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAKxC,qBAAa,iBAAkB,YAAW,aAAa;IACnD,QAAQ,CAAC,KAAK,EAAE,MAAM,GAAG,OAAO;IAKhC,KAAK,CAAC,KAAK,EAAE,MAAM,GAAG,MAAM;IAO5B,SAAS,CAAC,KAAK,EAAE,GAAG,GAAG,MAAM;CAMhC"}

@@ -1,19 +1,19 @@
 {
   "name": "@abdullah_zughbi/csvt-parse",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Type-safe CSV parser with schema validation",
-  "main": "./index.js",
+  "main": "./index.bundle.js",
   "types": "./index.d.ts",
   "exports": {
     ".": {
-      "require": "./index.js",
-      "import": "./index.js",
+      "require": "./index.bundle.js",
+      "import": "./index.bundle.js",
       "types": "./index.d.ts"
     },
     "./examples/basic-usage": "./examples/basic-usage.js"
   },
   "files": [
-    "index.js",
+    "index.bundle.js",
     "index.d.ts",
     "examples",
     "README.md",
@@ -27,5 +27,13 @@
     "validation"
   ],
   "author": "Abdullah Zughbi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbdullahZughbi/csvt-parse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbdullahZughbi/csvt-parse/issues"
+  },
+  "homepage": "https://github.com/AbdullahZughbi/csvt-parse#readme"
 }
