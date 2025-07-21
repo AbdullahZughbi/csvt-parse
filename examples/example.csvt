@@ -1,0 +1,3 @@
+name:string,score:number,active:boolean
+"Alice",95,true
+"Bob",87,false
